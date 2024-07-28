@@ -1,0 +1,1 @@
+This repository stores some of the projects I completed while learning new data science skills. Some files require packages like pandas, seaborn, sklearn, etc. to be loaded in the local environment. 
